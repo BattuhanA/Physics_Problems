@@ -1,18 +1,39 @@
-
 # Task 02 – Range Optimization
 
-R(θ) = v₀² sin(2θ) / g
+## Problem Statement
 
-Take derivative:
+Show that maximum range occurs at $45^\circ$.
 
-dR/dθ = (v₀²/g) * 2 cos(2θ)
+## Theory
 
-Set equal to zero:
+$$
+R(\theta) = \frac{v_0^2 \sin(2\theta)}{g}
+$$
 
-cos(2θ) = 0
+## Step-by-Step Solution
 
-2θ = 90°
+Maximize:
 
-θ = 45°
+$$
+\sin(2\theta)
+$$
 
-Therefore the maximum range occurs at θ = 45°.
+Maximum value is:
+
+$$
+1 \quad \text{when} \quad 2\theta = 90^\circ
+$$
+
+Thus:
+
+$$
+\theta = 45^\circ
+$$
+
+## Final Result
+
+Maximum range at $45^\circ$.
+
+## Interpretation
+
+Symmetry of projectile motion.
