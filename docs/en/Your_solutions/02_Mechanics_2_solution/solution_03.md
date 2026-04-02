@@ -1,4 +1,4 @@
-# Solution 03 – Pendulum Speed (Detailed)
+# Solution 03 – Pendulum Speed
 
 ## Given:
 - Length: L = 1.0 m  
