@@ -1,15 +1,14 @@
-# Solution 10 - Wave Sources
+# Solution 11 - Double Slit
 
 ## Equation
 
-u(r,t) = A / r^α * sin(kr - ωt)
+u = u₁ + u₂
 
 ## Concept
 
-* Multiple sources
-* Superposition
-* Radial decay
+* Interference pattern
+* Constructive / destructive interference
 
 ## Visualization
 
-See: wave_sources.html
+See: double_slit.html
