@@ -16,20 +16,23 @@ B = 0.1 \, \text{T}
 
 The magnetic field is **perpendicular** to the velocity.
 
-👉 Find the **radius of the circular path**.
+---
+
+### 🎯 Goal
+Find the **radius of the circular path**.
 
 ---
 
 ## 🧠 Concept
 
-1. ⚡ Electric potential energy → kinetic energy  
-2. 🧲 Magnetic field → circular motion  
+- ⚡ Electric potential energy converts into kinetic energy  
+- 🧲 Magnetic field causes circular motion  
 
 ---
 
-## 🔹 Step 1: Find Velocity
+## 🔹 Step 1: Convert Energy → Velocity
 
-When accelerated through voltage \(V\):
+The electron gains kinetic energy:
 
 \[
 \frac{1}{2}mv^2 = qV
@@ -48,6 +51,7 @@ v = \sqrt{\frac{2qV}{m}}
 \[
 q = 1.6 \times 10^{-19} \, C
 \]
+
 \[
 m = 9.11 \times 10^{-31} \, kg
 \]
@@ -57,12 +61,12 @@ v = \sqrt{\frac{2 \cdot (1.6 \times 10^{-19}) \cdot 5000}{9.11 \times 10^{-31}}}
 \]
 
 \[
-v \approx 4.2 \times 10^{7} \, m/s
+v \approx 4.2 \times 10^{7} \, \text{m/s}
 \]
 
 ---
 
-## 🔹 Step 2: Circular Motion Formula
+## 🔹 Step 2: Circular Motion
 
 Magnetic force provides centripetal force:
 
@@ -86,7 +90,7 @@ r = \frac{(9.11 \times 10^{-31}) \cdot (4.2 \times 10^7)}
 \]
 
 \[
-r \approx 2.4 \times 10^{-3} \, m
+r \approx 2.4 \times 10^{-3} \, \text{m}
 \]
 
 ---
@@ -99,11 +103,10 @@ r \approx 2.4 \times 10^{-3} \, m
 
 ---
 
-## 💡 Key Insight
+## 💡 Key Insights
 
-- ⚡ Voltage increases speed  
-- 🧲 Magnetic field bends motion  
-- 🔄 Result → circular trajectory  
+- ⚡ Higher voltage → higher speed  
+- 🧲 Stronger magnetic field → smaller radius  
+- 🔄 Motion becomes perfectly circular when velocity ⟂ magnetic field  
 
-👉 Higher velocity ⇒ larger radius  
-👉 Stronger magnetic field ⇒ smaller radius
+---
