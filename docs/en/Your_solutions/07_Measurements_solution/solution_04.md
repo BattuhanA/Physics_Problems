@@ -8,11 +8,11 @@ If the speedometer reads **60 km/h**, what is the range of the car's actual spee
 
 # 📘 Understanding Relative Uncertainty
 
-Relative uncertainty tells us how much the measured value might differ from the real value.  
+Relative uncertainty tells us how much the measured value might differ from the real value.
 
 A **5% uncertainty** means the actual speed could be **5% higher or lower** than the displayed speed.
 
-So the speed shown on the speedometer is not perfectly exact ⚠️
+So, the speed shown on the speedometer is not perfectly exact ⚠️
 
 ---
 
@@ -44,7 +44,7 @@ We calculate 5% of 60:
 = 3 \text{ km/h}
 \]
 
-✅ So the uncertainty is:
+✅ So, the uncertainty is:
 
 \[
 \pm 3 \text{ km/h}
@@ -104,8 +104,8 @@ The car's actual speed lies between:
 
 Even though the speedometer shows **60 km/h**, the real speed may actually be:
 
-- a little slower 🐢 → **57 km/h**
-- exactly correct 🎯 → **60 km/h**
-- a little faster 🏎️ → **63 km/h**
+- 🐢 A little slower → **57 km/h**
+- 🎯 Exactly correct → **60 km/h**
+- 🏎️ A little faster → **63 km/h**
 
 because of the **5% measurement uncertainty**.
