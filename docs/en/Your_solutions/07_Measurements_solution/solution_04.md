@@ -20,35 +20,35 @@ So, the speed shown on the speedometer is not perfectly exact ⚠️
 
 The speed shown is:
 
-\[
+$$
 60 \text{ km/h}
-\]
+$$
 
 The uncertainty percentage is:
 
-\[
+$$
 5\%
-\]
+$$
 
 We calculate 5% of 60:
 
-\[
+$$
 \frac{5}{100} \times 60
-\]
+$$
 
-\[
+$$
 = 0.05 \times 60
-\]
+$$
 
-\[
+$$
 = 3 \text{ km/h}
-\]
+$$
 
 ✅ So, the uncertainty is:
 
-\[
+$$
 \pm 3 \text{ km/h}
-\]
+$$
 
 This means the real speed can be **3 km/h less** or **3 km/h more** than 60 km/h.
 
@@ -58,15 +58,15 @@ This means the real speed can be **3 km/h less** or **3 km/h more** than 60 km/h
 
 Subtract the uncertainty from the measured value:
 
-\[
+$$
 60 - 3 = 57
-\]
+$$
 
 🚘 Minimum possible speed:
 
-\[
+$$
 57 \text{ km/h}
-\]
+$$
 
 ---
 
@@ -74,15 +74,15 @@ Subtract the uncertainty from the measured value:
 
 Add the uncertainty to the measured value:
 
-\[
+$$
 60 + 3 = 63
-\]
+$$
 
 🚘 Maximum possible speed:
 
-\[
+$$
 63 \text{ km/h}
-\]
+$$
 
 ---
 
@@ -90,9 +90,9 @@ Add the uncertainty to the measured value:
 
 The car's actual speed lies between:
 
-\[
+$$
 57 \text{ km/h} \leq v \leq 63 \text{ km/h}
-\]
+$$
 
 🎯 Therefore, the possible speed range is:
 
